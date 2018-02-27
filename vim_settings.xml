@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoTroca/Troca.java" timestamp="1519760040886">
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoTroca/Troca.java" timestamp="1519765255299">
         <mark key="'" line="36" column="33" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="49" column="7" />
-        <mark key="^" line="49" column="7" />
-        <mark key="." line="49" column="7" />
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="61" column="30" />
+        <mark key="^" line="53" column="49" />
+        <mark key="." line="61" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CompraLoja/pom.xml" timestamp="1519229384569">
         <mark key="[" line="39" column="9" />
@@ -34,7 +34,7 @@
         <text encoding="base64">ICAgICAgLy8gIFdlYkVsZW1lbnQgZWxlbWVudCA9IGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sSXRlbnNQZWRpZG9fcnB0SXRlbnNQZWRpZG9fY3RsMDBfY21iT2JqZXRpdm9fQi0xIikpOwogICAgICAgLy8gSmF2YXNjcmlwdEV4ZWN1dG9yIGV4ZWN1dG9yID0gKEphdmFzY3JpcHRFeGVjdXRvcilkcml2ZXI7CiAgICAgICAvLyBleGVjdXRvci5leGVjdXRlU2NyaXB0KCJhcmd1bWVudHNbMF0uY2xpY2soKTsiLCBlbGVtZW50KTs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>id</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxJdGVuc1BlZGlkb19ycHRJdGVuc1BlZGlkb19jdGwwMF9jbWJPYmpldGl2b19ERERfTF9MQkkzVDAiKSkuY2xpY2soKTs=</text>
@@ -63,7 +63,7 @@
         <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>id</text>
       </register>
     </registers>
     <search>
