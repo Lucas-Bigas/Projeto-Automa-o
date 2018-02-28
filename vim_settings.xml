@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoTroca/Troca.java" timestamp="1519767228274">
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoTroca/Troca.java" timestamp="1519826304177">
         <mark key="'" line="36" column="33" />
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="8" />
-        <mark key="^" line="53" column="49" />
-        <mark key="." line="77" column="8" />
+        <mark key="[" line="56" column="162" />
+        <mark key="]" line="56" column="162" />
+        <mark key="^" line="56" column="158" />
+        <mark key="." line="56" column="162" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CompraLoja/pom.xml" timestamp="1519229384569">
         <mark key="[" line="39" column="9" />
@@ -34,7 +34,7 @@
         <text encoding="base64">Ly9GZWNoYSBhcGVuYXMgYSBhYmEgcXVlIHVzb3UKICAgICAgICA=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly9GZWNoYSBhcGVuYXMgYSBhYmEgcXVlIHVzb3UKICAgICAgICA=</text>
+        <text>click</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvL1NlbGVjaW9uYXIgbyBjYW1wbyBCYW5jbwo=</text>
@@ -63,7 +63,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgV2ViRHJpdmVyIGRyaXZlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>click</text>
       </register>
     </registers>
     <search>
