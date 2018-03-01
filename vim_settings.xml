@@ -6,6 +6,11 @@
       <file name="/Dummy.txt" timestamp="1519904576545">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/Evidencias/Generator.java" timestamp="1519911247491">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+      </file>
       <file name="/a.dummy" timestamp="1519904480988">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,8 +44,8 @@
       <register name="1" type="2">
         <text encoding="base64">UHJvY2Vzc29Ucm9jYQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UHJvY2Vzc29Ucm9jYQo=</text>
+      <register name="&quot;" type="4">
+        <text>SimpleDataFormat</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -69,7 +74,7 @@
         <text encoding="base64">CiAgICAgICAgLy9QcmVlbmNoZW5kbyBvIGNhbXBvIGNvbSBvIG51bWVybyBkbyBwZWRpZG8gZSBhY2lvbmFuZG8gYSBvcOfjbyBwZXNxdWlzYXIKICAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQoQnkuaWQoImN0bDAwX01haW5Db250YWluZXJfUG5sRmlsdHJvc19UeHRDb2RpZ29FeHRlcm5vMV9JIikpLnNlbmRLZXlzKCJCQjExMzI0ODQiKTsKCiAgICAgICAgLy9BY2lvbmFyIG8gYm90428gUGVzcXVpc2FyCiAgICAgICAgZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX1BubEZpbHRyb3NfQnRuUGVzcXVpc2FyX0NEIikpLmNsaWNrKCk7CgogICAgICAgIC8vQWNpb25hciBvIGJvdONvIHRyb2NhCiAgICAgICAgZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX2J0blRyb2NhIikpLmNsaWNrKCk7CgogICAgICAgIC8vQ2xpY2FyIG5vIGNoZWNrLWJveCBkbyBPYmpldGl2bwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sSXRlbnNQZWRpZG9fcnB0SXRlbnNQZWRpZG9fY3RsMDBfY2hrUHJvZHV0b19TX0QiKSkuY2xpY2soKTsKCiAgICAgICAgLy9DbGljYXIgbm8gY29tYm8gcGFyYSBhcHJlc2VudGFyIGEgbGlzdGEgY29tIGFzIG9w5/VlcwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5uYW1lKCJjdGwwMCRNYWluQ29udGFpbmVyJFBhZ2VUcm9jYURldm9sdWNhbyRwbmxJdGVuc1BlZGlkbyRycHRJdGVuc1BlZGlkbyRjdGwwMCRjbWJPYmpldGl2byIpKS5jbGljaygpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>//td[@id=\&quot;ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_txtAgenciaReembolsoEstorno_I\&quot;]</text>
+        <text>SimpleDataFormat</text>
       </register>
     </registers>
     <search>
