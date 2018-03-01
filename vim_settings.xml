@@ -6,10 +6,21 @@
       <file name="/Dummy.txt" timestamp="1519904576545">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoDevolucao/Devolucao.java" timestamp="1519915921963">
+        <mark key="[" line="27" column="67" />
+        <mark key="]" line="27" column="67" />
+        <mark key="." line="27" column="67" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/Evidencias/Generator.java" timestamp="1519911247491">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="19" />
         <mark key="." line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/Evidencias/Prints.java" timestamp="1519912838264">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1519904480988">
         <mark key="[" line="0" column="0" />
@@ -24,12 +35,13 @@
       <file name="$USER_HOME$/IdeaProjects/CompraLoja/pom.xml" timestamp="1519229384569">
         <mark key="[" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/pom.xml" timestamp="1519229374387">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/Evidencias/Screenshot.java" timestamp="1519914086934">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1519753663180">
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/pom.xml" timestamp="1519913703892" />
+      <file name="/fragment.java" timestamp="1519912811704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -42,39 +54,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">UHJvY2Vzc29Ucm9jYQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKSB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SimpleDataFormat</text>
+        <text>Luc</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9jb21tb25zLWlvL2NvbW1vbnMtaW8gLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtaW88L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtaW88L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuNDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ly9GZWNoYSBhcGVuYXMgYSBhYmEgcXVlIHVzb3UKICAgICAgICA=</text>
+        <text encoding="base64">PCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbW1vbnMtaW8vY29tbW9ucy1pbyAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL1NlbGVjaW9uYXIgbyBjYW1wbyBCYW5jbwo=</text>
+        <text encoding="base64">UHJvY2Vzc29Ucm9jYQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgLy8gIFdlYkVsZW1lbnQgZWxlbWVudCA9IGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sSXRlbnNQZWRpZG9fcnB0SXRlbnNQZWRpZG9fY3RsMDBfY21iT2JqZXRpdm9fQi0xIikpOwogICAgICAgLy8gSmF2YXNjcmlwdEV4ZWN1dG9yIGV4ZWN1dG9yID0gKEphdmFzY3JpcHRFeGVjdXRvcilkcml2ZXI7CiAgICAgICAvLyBleGVjdXRvci5leGVjdXRlU2NyaXB0KCJhcmd1bWVudHNbMF0uY2xpY2soKTsiLCBlbGVtZW50KTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxJdGVuc1BlZGlkb19ycHRJdGVuc1BlZGlkb19jdGwwMF9jbWJPYmpldGl2b19ERERfTF9MQkkzVDAiKSkuY2xpY2soKTs=</text>
+        <text encoding="base64">Ly9GZWNoYSBhcGVuYXMgYSBhYmEgcXVlIHVzb3UKICAgICAgICA=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0ZG9pcygpIHsKCiAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQoQnkuaWQoInNlYXJjaC1pbnB1dCIpKS5zZW5kS2V5cygicHJhbmNoYSIgKyBLZXlzLkVOVEVSKTsKCiAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQgKEJ5LnhwYXRoKCIvLypbQGRhdGEtcG9zaXRpb249JzAnXSIpKS5jbGljaygpOwoKICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiYnV5LWJ1dHRvbi1ub3ciKSkuY2xpY2soKTsKCiAgICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvL1NlbGVjaW9uYXIgbyBjYW1wbyBCYW5jbwo=</text>
       </register>
       <register name="8" type="4">
-        <text>driver.findElement(By.linkText(&quot;39&quot;)).click();
-
-       driver.findElement(By.id(&quot;buy-button-now&quot;)).click();</text>
+        <text encoding="base64">ICAgICAgLy8gIFdlYkVsZW1lbnQgZWxlbWVudCA9IGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sSXRlbnNQZWRpZG9fcnB0SXRlbnNQZWRpZG9fY3RsMDBfY21iT2JqZXRpdm9fQi0xIikpOwogICAgICAgLy8gSmF2YXNjcmlwdEV4ZWN1dG9yIGV4ZWN1dG9yID0gKEphdmFzY3JpcHRFeGVjdXRvcilkcml2ZXI7CiAgICAgICAvLyBleGVjdXRvci5leGVjdXRlU2NyaXB0KCJhcmd1bWVudHNbMF0uY2xpY2soKTsiLCBlbGVtZW50KTs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLy9QcmVlbmNoZW5kbyBvIGNhbXBvIGNvbSBvIG51bWVybyBkbyBwZWRpZG8gZSBhY2lvbmFuZG8gYSBvcOfjbyBwZXNxdWlzYXIKICAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQoQnkuaWQoImN0bDAwX01haW5Db250YWluZXJfUG5sRmlsdHJvc19UeHRDb2RpZ29FeHRlcm5vMV9JIikpLnNlbmRLZXlzKCJCQjExMzI0ODQiKTsKCiAgICAgICAgLy9BY2lvbmFyIG8gYm90428gUGVzcXVpc2FyCiAgICAgICAgZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX1BubEZpbHRyb3NfQnRuUGVzcXVpc2FyX0NEIikpLmNsaWNrKCk7CgogICAgICAgIC8vQWNpb25hciBvIGJvdONvIHRyb2NhCiAgICAgICAgZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX2J0blRyb2NhIikpLmNsaWNrKCk7CgogICAgICAgIC8vQ2xpY2FyIG5vIGNoZWNrLWJveCBkbyBPYmpldGl2bwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sSXRlbnNQZWRpZG9fcnB0SXRlbnNQZWRpZG9fY3RsMDBfY2hrUHJvZHV0b19TX0QiKSkuY2xpY2soKTsKCiAgICAgICAgLy9DbGljYXIgbm8gY29tYm8gcGFyYSBhcHJlc2VudGFyIGEgbGlzdGEgY29tIGFzIG9w5/VlcwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5uYW1lKCJjdGwwMCRNYWluQ29udGFpbmVyJFBhZ2VUcm9jYURldm9sdWNhbyRwbmxJdGVuc1BlZGlkbyRycHRJdGVuc1BlZGlkbyRjdGwwMCRjbWJPYmpldGl2byIpKS5jbGljaygpOw==</text>
+        <text encoding="base64">CiAgICAgICAgZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxJdGVuc1BlZGlkb19ycHRJdGVuc1BlZGlkb19jdGwwMF9jbWJPYmpldGl2b19ERERfTF9MQkkzVDAiKSkuY2xpY2soKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>SimpleDataFormat</text>
+        <text>Luc</text>
       </register>
     </registers>
     <search>
