@@ -18,7 +18,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoDevolucao/DevolucaoReembolso.java" timestamp="1519992356474" />
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoDevolucao/DevolucaoReembolso.java" timestamp="1519996357152">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1519991926829">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,10 +33,10 @@
         <mark key="^" line="34" column="104" />
         <mark key="." line="34" column="104" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoDevolucao/DevolucaoEstorno.java" timestamp="1519992475747">
-        <mark key="[" line="75" column="12" />
-        <mark key="]" line="75" column="12" />
-        <mark key="." line="75" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoDevolucao/DevolucaoEstorno.java" timestamp="1519996020652">
+        <mark key="[" line="79" column="130" />
+        <mark key="]" line="79" column="130" />
+        <mark key="." line="79" column="130" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/Evidencias/Screenshot.java" timestamp="1519924566700">
         <mark key="[" line="12" column="44" />
@@ -61,19 +65,19 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>//Clicar no campo Banco para apresentar a lista
-            Thread.sleep(1500);
-            driver.findElement(By.xpath(&quot;//td[@id='ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_cmbBancoReembolsoEstorno_B-1']&quot;)).click();
-            //Selecionando o banco
-            Thread.sleep(1500);
-            driver.findElement(By.id(&quot;ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_cmbBancoReembolsoEstorno_DDD_L_LBI162T0&quot;)).click();
-            //Preencher o campo Agencia
-            Thread.sleep(1700);
-            driver.findElement(By.xpath(&quot;//input[@id='ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_txtAgenciaReembolsoEstorno_I']&quot;)).sendKeys(Keys.HOME + &quot;3093&quot;);
-            //Preencher o campo Conta Corrente
-            driver.findElement(By.id(&quot;ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_txtContaReembolsoEstorno_I&quot;)).sendKeys(&quot;222212-2&quot;);</text>
+        <text encoding="base64">IEBSdWxlCiAgICBwdWJsaWMgVGVzdE5hbWUgdGVzdCA9IG5ldyBUZXN0TmFtZSgpOw==</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">IEBSdWxlCiAgICBwdWJsaWMgVGVzdE5hbWUgdGVzdCA9IG5ldyBUZXN0TmFtZSgpOw==</text>
+      </register>
+      <register name="2" type="4">
+        <text>String screenshotArquivo = &quot;C:\\Users\\lucas.menezes\\Documents\\EvidenciasAut\\&quot; + Generator.dataHoraParaArquivo() + test.getMethodName() + &quot;.png&quot;;
+        Screenshot.tirar(driver, screenshotArquivo);</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgQFJ1bGUKICAgICAgICBwdWJsaWMgVGVzdE5hbWUgdGVzdCA9IG5ldyBUZXN0TmFtZSgpOw==</text>
+      </register>
+      <register name="4" type="4">
         <text>//Clicar no campo Banco para apresentar a lista
             Thread.sleep(1500);
             driver.findElement(By.xpath(&quot;//td[@id='ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_cmbBancoReembolsoEstorno_B-1']&quot;)).click();
@@ -86,32 +90,23 @@
             //Preencher o campo Conta Corrente
             driver.findElement(By.id(&quot;ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_txtContaReembolsoEstorno_I&quot;)).sendKeys(&quot;222212-2&quot;);</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIGltcG9ydCBFdmlkZW5jaWFzLkdlbmVyYXRvcjsKaW1wb3J0IEV2aWRlbmNpYXMuU2NyZWVuc2hvdDsKaW1wb3J0IG9yZy5qdW5pdC5BZnRlckNsYXNzOwppbXBvcnQgb3JnLmp1bml0LkJlZm9yZUNsYXNzOwppbXBvcnQgb3JnLmp1bml0LlJ1bGU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsKaW1wb3J0IG9yZy5qdW5pdC5ydWxlcy5UZXN0TmFtZTsKaW1wb3J0IG9yZy5vcGVucWEuc2VsZW5pdW0uKjsKaW1wb3J0IG9yZy5vcGVucWEuc2VsZW5pdW0uY2hyb21lLkNocm9tZURyaXZlcjsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0OwoKICAgIHB1YmxpYyBjbGFzcyBEZXZvbHVjYW9SZWVtYm9sc28gew==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxDb25maXJtYWNhb19idG5Db25maXJtYXJQcm9jZXNzb19DRCIpKS5jbGljaygpOwogICAgICAgIFNjcmVlbnNob3QudGlyYXIoZHJpdmVyLCAiQzpcXFVzZXJzXFxsdWNhcy5tZW5lemVzXFxEb2N1bWVudHNcXEV2aWRlbmNpYXNBdXQiICsgR2VuZXJhdG9yLmRhdGFIb3JhUGFyYUFycXVpdm8oKSArICJEZXZvbHVjYW9Db21SZWVtYm9sc28ucG5nIik7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKSB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9jb21tb25zLWlvL2NvbW1vbnMtaW8gLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtaW88L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtaW88L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuNDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbW1vbnMtaW8vY29tbW9ucy1pbyAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">UHJvY2Vzc29Ucm9jYQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly9GZWNoYSBhcGVuYXMgYSBhYmEgcXVlIHVzb3UKICAgICAgICA=</text>
-      </register>
       <register name="-" type="4">
-        <text>Reembolso</text>
+        <text />
       </register>
     </registers>
     <search>
