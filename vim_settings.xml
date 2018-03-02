@@ -54,8 +54,10 @@
       <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoDevolucao/ProcessoTroca.java" timestamp="1519997352416">
         <mark key="[" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessosAbacosSAC/ProcessoValeCompra.java" timestamp="1519999550337">
-        <mark key="[" line="2" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessosAbacosSAC/ProcessoValeCompra.java" timestamp="1520001690968">
+        <mark key="[" line="63" column="7" />
+        <mark key="]" line="63" column="7" />
+        <mark key="." line="63" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/pom.xml" timestamp="1519913703892" />
       <file name="/fragment.java" timestamp="1519924571593">
@@ -63,7 +65,7 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessosAbacosSAC/ProcessoTroca.java" timestamp="1519999544858">
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessosAbacosSAC/ProcessoTroca.java" timestamp="1519999592984">
         <mark key="[" line="82" column="125" />
         <mark key="]" line="82" column="125" />
         <mark key="." line="82" column="125" />
@@ -76,25 +78,28 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">IC8vQ2xpY2FuZG8gbmEgYWJhIFJlZW1ib2xzbwogICAgICAgIFRocmVhZC5zbGVlcCgxNTAwKTsKICAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQoQnkueHBhdGgoIi4vLypbQGlkPSdjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19UM1QnXSIpKS5jbGljaygpOwogICAgICAgIC8vQ2xpY2FyIG5vIGNhbXBvIEJhbmNvIHBhcmEgYXByZXNlbnRhciBhIGxpc3RhCiAgICAgICAgVGhyZWFkLnNsZWVwKDE1MDApOwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS54cGF0aCgiLy90ZFtAaWQ9J2N0bDAwX01haW5Db250YWluZXJfUGFnZVRyb2NhRGV2b2x1Y2FvX3BubERhZG9zUmVlbWJvbHNvRXN0b3Jub19jbWJCYW5jb1JlZW1ib2xzb0VzdG9ybm9fQi0xJ10iKSkuY2xpY2soKTsKICAgICAgICAvL1NlbGVjaW9uYW5kbyBvIGJhbmNvCiAgICAgICAgVGhyZWFkLnNsZWVwKDE1MDApOwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sRGFkb3NSZWVtYm9sc29Fc3Rvcm5vX2NtYkJhbmNvUmVlbWJvbHNvRXN0b3Jub19ERERfTF9MQkkxNjJUMCIpKS5jbGljaygpOwogICAgICAgIC8vUHJlZW5jaGVyIG8gY2FtcG8gQWdlbmNpYQogICAgICAgIFRocmVhZC5zbGVlcCgxNzAwKTsKICAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQoQnkueHBhdGgoIi8vaW5wdXRbQGlkPSdjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxEYWRvc1JlZW1ib2xzb0VzdG9ybm9fdHh0QWdlbmNpYVJlZW1ib2xzb0VzdG9ybm9fSSddIikpLnNlbmRLZXlzKEtleXMuSE9NRSArICIzMDkzIik7CiAgICAgICAgLy9QcmVlbmNoZXIgbyBjYW1wbyBDb250YSBDb3JyZW50ZQogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sRGFkb3NSZWVtYm9sc29Fc3Rvcm5vX3R4dENvbnRhUmVlbWJvbHNvRXN0b3Jub19JIikpLnNlbmRLZXlzKCIyMjIyMTItMiIpOwogICAgICAgIFNjcmVlbnNob3QudGlyYXIoZHJpdmVyLCAiQzpcXFVzZXJzXFxsdWNhcy5tZW5lemVzXFxEb2N1bWVudHNcXEV2aWRlbmNpYXNBdXRcXCIgKyBHZW5lcmF0b3IuZGF0YUhvcmFQYXJhQXJxdWl2bygpICsgIlJlZW1ib2xzby5wbmciKTs=</text>
+        <text encoding="base64">IC8vIEFwcmVzZW50YXIgYSBsaXN0YSBkZSBwcm9kdXRvcyBzdWJzdGl0dXRvcwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS54cGF0aCgiLy90ZFtAaWQ9J2N0bDAwX01haW5Db250YWluZXJfUGFnZVRyb2NhRGV2b2x1Y2FvX3BubEl0ZW5zUGVkaWRvX3JwdEl0ZW5zUGVkaWRvX2N0bDAwX3BubEl0ZW5zUGVkaWRvUHJvZHV0b3NTdWJzdGl0dXRvc19jbWJJdGVuc1BlZGlkb3NQcm9kdXRvc1N1YnN0aXR1dG9zX0ItMSddIikpLmNsaWNrKCk7CiAgICAgICAgLy8gU2VsZWNpb25hciBvIHByb2R1dG8gc3Vic3RpdHV0bwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS54cGF0aCgiLy90ZFtAaWQ9J2N0bDAwX01haW5Db250YWluZXJfUGFnZVRyb2NhRGV2b2x1Y2FvX3BubEl0ZW5zUGVkaWRvX3JwdEl0ZW5zUGVkaWRvX2N0bDAwX3BubEl0ZW5zUGVkaWRvUHJvZHV0b3NTdWJzdGl0dXRvc19jbWJJdGVuc1BlZGlkb3NQcm9kdXRvc1N1YnN0aXR1dG9zX0RERF9MX0xCSTFUMSddIikpLmNsaWNrKCk7CiAgICAgICAgU2NyZWVuc2hvdC50aXJhcihkcml2ZXIsICJDOlxcVXNlcnNcXGx1Y2FzLm1lbmV6ZXNcXERvY3VtZW50c1xcRXZpZGVuY2lhc0F1dFxcIiArIEdlbmVyYXRvci5kYXRhSG9yYVBhcmFBcnF1aXZvKCkgKyAiUHJvZHV0byBTdWJzdGl0dXRvLnBuZyIpOwoKICAgICAgICAvL0FkaWNpb25hciBGcmV0ZSBlbSBjYXNvIGRlIDK6IHRyb2NhCiAgICAgICAgLy9kcml2ZXIuZmluZEVsZW1lbnQoQnkueHBhdGgoIi8vaW5wdXRbQGlkPSdjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxEYWRvc0VudHJlZ2FfdHh0VmFsb3JGcmV0ZV9JJ10iKSkuc2VuZEtleXMoS2V5cy5IT01FICsgIjEyIik7CiAgICAgICAgLy9TY3JlZW5zaG90LnRpcmFyKGRyaXZlciwgIkM6XFxVc2Vyc1xcbHVjYXMubWVuZXplc1xcRG9jdW1lbnRzXFxFdmlkZW5jaWFzQXV0XFwiICsgR2VuZXJhdG9yLmRhdGFIb3JhUGFyYUFycXVpdm8oKSArICJBZGnn428gZG8gRnJldGUucG5nIik7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Tipo de Postagem.</text>
+        <text encoding="base64">IC8vIEFwcmVzZW50YXIgYSBsaXN0YSBkZSBwcm9kdXRvcyBzdWJzdGl0dXRvcwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS54cGF0aCgiLy90ZFtAaWQ9J2N0bDAwX01haW5Db250YWluZXJfUGFnZVRyb2NhRGV2b2x1Y2FvX3BubEl0ZW5zUGVkaWRvX3JwdEl0ZW5zUGVkaWRvX2N0bDAwX3BubEl0ZW5zUGVkaWRvUHJvZHV0b3NTdWJzdGl0dXRvc19jbWJJdGVuc1BlZGlkb3NQcm9kdXRvc1N1YnN0aXR1dG9zX0ItMSddIikpLmNsaWNrKCk7CiAgICAgICAgLy8gU2VsZWNpb25hciBvIHByb2R1dG8gc3Vic3RpdHV0bwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS54cGF0aCgiLy90ZFtAaWQ9J2N0bDAwX01haW5Db250YWluZXJfUGFnZVRyb2NhRGV2b2x1Y2FvX3BubEl0ZW5zUGVkaWRvX3JwdEl0ZW5zUGVkaWRvX2N0bDAwX3BubEl0ZW5zUGVkaWRvUHJvZHV0b3NTdWJzdGl0dXRvc19jbWJJdGVuc1BlZGlkb3NQcm9kdXRvc1N1YnN0aXR1dG9zX0RERF9MX0xCSTFUMSddIikpLmNsaWNrKCk7CiAgICAgICAgU2NyZWVuc2hvdC50aXJhcihkcml2ZXIsICJDOlxcVXNlcnNcXGx1Y2FzLm1lbmV6ZXNcXERvY3VtZW50c1xcRXZpZGVuY2lhc0F1dFxcIiArIEdlbmVyYXRvci5kYXRhSG9yYVBhcmFBcnF1aXZvKCkgKyAiUHJvZHV0byBTdWJzdGl0dXRvLnBuZyIpOwoKICAgICAgICAvL0FkaWNpb25hciBGcmV0ZSBlbSBjYXNvIGRlIDK6IHRyb2NhCiAgICAgICAgLy9kcml2ZXIuZmluZEVsZW1lbnQoQnkueHBhdGgoIi8vaW5wdXRbQGlkPSdjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxEYWRvc0VudHJlZ2FfdHh0VmFsb3JGcmV0ZV9JJ10iKSkuc2VuZEtleXMoS2V5cy5IT01FICsgIjEyIik7CiAgICAgICAgLy9TY3JlZW5zaG90LnRpcmFyKGRyaXZlciwgIkM6XFxVc2Vyc1xcbHVjYXMubWVuZXplc1xcRG9jdW1lbnRzXFxFdmlkZW5jaWFzQXV0XFwiICsgR2VuZXJhdG9yLmRhdGFIb3JhUGFyYUFycXVpdm8oKSArICJBZGnn428gZG8gRnJldGUucG5nIik7</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">IC8vQ2xpY2FuZG8gbmEgYWJhIFJlZW1ib2xzbwogICAgICAgIFRocmVhZC5zbGVlcCgxNTAwKTsKICAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQoQnkueHBhdGgoIi4vLypbQGlkPSdjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19UM1QnXSIpKS5jbGljaygpOwogICAgICAgIC8vQ2xpY2FyIG5vIGNhbXBvIEJhbmNvIHBhcmEgYXByZXNlbnRhciBhIGxpc3RhCiAgICAgICAgVGhyZWFkLnNsZWVwKDE1MDApOwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS54cGF0aCgiLy90ZFtAaWQ9J2N0bDAwX01haW5Db250YWluZXJfUGFnZVRyb2NhRGV2b2x1Y2FvX3BubERhZG9zUmVlbWJvbHNvRXN0b3Jub19jbWJCYW5jb1JlZW1ib2xzb0VzdG9ybm9fQi0xJ10iKSkuY2xpY2soKTsKICAgICAgICAvL1NlbGVjaW9uYW5kbyBvIGJhbmNvCiAgICAgICAgVGhyZWFkLnNsZWVwKDE1MDApOwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sRGFkb3NSZWVtYm9sc29Fc3Rvcm5vX2NtYkJhbmNvUmVlbWJvbHNvRXN0b3Jub19ERERfTF9MQkkxNjJUMCIpKS5jbGljaygpOwogICAgICAgIC8vUHJlZW5jaGVyIG8gY2FtcG8gQWdlbmNpYQogICAgICAgIFRocmVhZC5zbGVlcCgxNzAwKTsKICAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQoQnkueHBhdGgoIi8vaW5wdXRbQGlkPSdjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxEYWRvc1JlZW1ib2xzb0VzdG9ybm9fdHh0QWdlbmNpYVJlZW1ib2xzb0VzdG9ybm9fSSddIikpLnNlbmRLZXlzKEtleXMuSE9NRSArICIzMDkzIik7CiAgICAgICAgLy9QcmVlbmNoZXIgbyBjYW1wbyBDb250YSBDb3JyZW50ZQogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sRGFkb3NSZWVtYm9sc29Fc3Rvcm5vX3R4dENvbnRhUmVlbWJvbHNvRXN0b3Jub19JIikpLnNlbmRLZXlzKCIyMjIyMTItMiIpOwogICAgICAgIFNjcmVlbnNob3QudGlyYXIoZHJpdmVyLCAiQzpcXFVzZXJzXFxsdWNhcy5tZW5lemVzXFxEb2N1bWVudHNcXEV2aWRlbmNpYXNBdXRcXCIgKyBHZW5lcmF0b3IuZGF0YUhvcmFQYXJhQXJxdWl2bygpICsgIlJlZW1ib2xzby5wbmciKTs=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">UHJvY2Vzc29EZXZvbHVjYW8K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IEBSdWxlCiAgICBwdWJsaWMgVGVzdE5hbWUgdGVzdCA9IG5ldyBUZXN0TmFtZSgpOw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>String screenshotArquivo = &quot;C:\\Users\\lucas.menezes\\Documents\\EvidenciasAut\\&quot; + Generator.dataHoraParaArquivo() + test.getMethodName() + &quot;.png&quot;;
         Screenshot.tirar(driver, screenshotArquivo);</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgQFJ1bGUKICAgICAgICBwdWJsaWMgVGVzdE5hbWUgdGVzdCA9IG5ldyBUZXN0TmFtZSgpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>//Clicar no campo Banco para apresentar a lista
             Thread.sleep(1500);
             driver.findElement(By.xpath(&quot;//td[@id='ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_cmbBancoReembolsoEstorno_B-1']&quot;)).click();
@@ -107,17 +112,14 @@
             //Preencher o campo Conta Corrente
             driver.findElement(By.id(&quot;ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_txtContaReembolsoEstorno_I&quot;)).sendKeys(&quot;222212-2&quot;);</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIGltcG9ydCBFdmlkZW5jaWFzLkdlbmVyYXRvcjsKaW1wb3J0IEV2aWRlbmNpYXMuU2NyZWVuc2hvdDsKaW1wb3J0IG9yZy5qdW5pdC5BZnRlckNsYXNzOwppbXBvcnQgb3JnLmp1bml0LkJlZm9yZUNsYXNzOwppbXBvcnQgb3JnLmp1bml0LlJ1bGU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsKaW1wb3J0IG9yZy5qdW5pdC5ydWxlcy5UZXN0TmFtZTsKaW1wb3J0IG9yZy5vcGVucWEuc2VsZW5pdW0uKjsKaW1wb3J0IG9yZy5vcGVucWEuc2VsZW5pdW0uY2hyb21lLkNocm9tZURyaXZlcjsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0OwoKICAgIHB1YmxpYyBjbGFzcyBEZXZvbHVjYW9SZWVtYm9sc28gew==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxDb25maXJtYWNhb19idG5Db25maXJtYXJQcm9jZXNzb19DRCIpKS5jbGljaygpOwogICAgICAgIFNjcmVlbnNob3QudGlyYXIoZHJpdmVyLCAiQzpcXFVzZXJzXFxsdWNhcy5tZW5lemVzXFxEb2N1bWVudHNcXEV2aWRlbmNpYXNBdXQiICsgR2VuZXJhdG9yLmRhdGFIb3JhUGFyYUFycXVpdm8oKSArICJEZXZvbHVjYW9Db21SZWVtYm9sc28ucG5nIik7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKSB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewo=</text>
-      </register>
       <register name="-" type="4">
-        <text>Tipo de Postagem.</text>
+        <text>Troca</text>
       </register>
     </registers>
     <search>
