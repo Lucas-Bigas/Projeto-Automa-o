@@ -18,10 +18,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoDevolucao/DevolucaoReembolso.java" timestamp="1519996357152">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoDevolucao/DevolucaoReembolso.java" timestamp="1519997455833">
+        <mark key="[" line="94" column="125" />
+        <mark key="]" line="94" column="125" />
+        <mark key="." line="94" column="125" />
       </file>
       <file name="/a.dummy" timestamp="1519991926829">
         <mark key="[" line="0" column="0" />
@@ -51,11 +51,22 @@
       <file name="$USER_HOME$/IdeaProjects/CompraLoja/pom.xml" timestamp="1519229384569">
         <mark key="[" line="39" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessoDevolucao/ProcessoTroca.java" timestamp="1519997352416">
+        <mark key="[" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessosAbacosSAC/ProcessoValeCompra.java" timestamp="1519999550337">
+        <mark key="[" line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/pom.xml" timestamp="1519913703892" />
       <file name="/fragment.java" timestamp="1519924571593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AutomacaoSAC/src/test/java/ProcessosAbacosSAC/ProcessoTroca.java" timestamp="1519999544858">
+        <mark key="[" line="82" column="125" />
+        <mark key="]" line="82" column="125" />
+        <mark key="." line="82" column="125" />
       </file>
     </filemarks>
     <jumps>
@@ -65,19 +76,25 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">IEBSdWxlCiAgICBwdWJsaWMgVGVzdE5hbWUgdGVzdCA9IG5ldyBUZXN0TmFtZSgpOw==</text>
+        <text encoding="base64">IC8vQ2xpY2FuZG8gbmEgYWJhIFJlZW1ib2xzbwogICAgICAgIFRocmVhZC5zbGVlcCgxNTAwKTsKICAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQoQnkueHBhdGgoIi4vLypbQGlkPSdjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19UM1QnXSIpKS5jbGljaygpOwogICAgICAgIC8vQ2xpY2FyIG5vIGNhbXBvIEJhbmNvIHBhcmEgYXByZXNlbnRhciBhIGxpc3RhCiAgICAgICAgVGhyZWFkLnNsZWVwKDE1MDApOwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS54cGF0aCgiLy90ZFtAaWQ9J2N0bDAwX01haW5Db250YWluZXJfUGFnZVRyb2NhRGV2b2x1Y2FvX3BubERhZG9zUmVlbWJvbHNvRXN0b3Jub19jbWJCYW5jb1JlZW1ib2xzb0VzdG9ybm9fQi0xJ10iKSkuY2xpY2soKTsKICAgICAgICAvL1NlbGVjaW9uYW5kbyBvIGJhbmNvCiAgICAgICAgVGhyZWFkLnNsZWVwKDE1MDApOwogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sRGFkb3NSZWVtYm9sc29Fc3Rvcm5vX2NtYkJhbmNvUmVlbWJvbHNvRXN0b3Jub19ERERfTF9MQkkxNjJUMCIpKS5jbGljaygpOwogICAgICAgIC8vUHJlZW5jaGVyIG8gY2FtcG8gQWdlbmNpYQogICAgICAgIFRocmVhZC5zbGVlcCgxNzAwKTsKICAgICAgICBkcml2ZXIuZmluZEVsZW1lbnQoQnkueHBhdGgoIi8vaW5wdXRbQGlkPSdjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxEYWRvc1JlZW1ib2xzb0VzdG9ybm9fdHh0QWdlbmNpYVJlZW1ib2xzb0VzdG9ybm9fSSddIikpLnNlbmRLZXlzKEtleXMuSE9NRSArICIzMDkzIik7CiAgICAgICAgLy9QcmVlbmNoZXIgbyBjYW1wbyBDb250YSBDb3JyZW50ZQogICAgICAgIGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgiY3RsMDBfTWFpbkNvbnRhaW5lcl9QYWdlVHJvY2FEZXZvbHVjYW9fcG5sRGFkb3NSZWVtYm9sc29Fc3Rvcm5vX3R4dENvbnRhUmVlbWJvbHNvRXN0b3Jub19JIikpLnNlbmRLZXlzKCIyMjIyMTItMiIpOwogICAgICAgIFNjcmVlbnNob3QudGlyYXIoZHJpdmVyLCAiQzpcXFVzZXJzXFxsdWNhcy5tZW5lemVzXFxEb2N1bWVudHNcXEV2aWRlbmNpYXNBdXRcXCIgKyBHZW5lcmF0b3IuZGF0YUhvcmFQYXJhQXJxdWl2bygpICsgIlJlZW1ib2xzby5wbmciKTs=</text>
       </register>
       <register name="&quot;" type="4">
+        <text>Tipo de Postagem.</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">UHJvY2Vzc29EZXZvbHVjYW8K</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IEBSdWxlCiAgICBwdWJsaWMgVGVzdE5hbWUgdGVzdCA9IG5ldyBUZXN0TmFtZSgpOw==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>String screenshotArquivo = &quot;C:\\Users\\lucas.menezes\\Documents\\EvidenciasAut\\&quot; + Generator.dataHoraParaArquivo() + test.getMethodName() + &quot;.png&quot;;
         Screenshot.tirar(driver, screenshotArquivo);</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgQFJ1bGUKICAgICAgICBwdWJsaWMgVGVzdE5hbWUgdGVzdCA9IG5ldyBUZXN0TmFtZSgpOw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>//Clicar no campo Banco para apresentar a lista
             Thread.sleep(1500);
             driver.findElement(By.xpath(&quot;//td[@id='ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_cmbBancoReembolsoEstorno_B-1']&quot;)).click();
@@ -90,23 +107,17 @@
             //Preencher o campo Conta Corrente
             driver.findElement(By.id(&quot;ctl00_MainContainer_PageTrocaDevolucao_pnlDadosReembolsoEstorno_txtContaReembolsoEstorno_I&quot;)).sendKeys(&quot;222212-2&quot;);</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIGltcG9ydCBFdmlkZW5jaWFzLkdlbmVyYXRvcjsKaW1wb3J0IEV2aWRlbmNpYXMuU2NyZWVuc2hvdDsKaW1wb3J0IG9yZy5qdW5pdC5BZnRlckNsYXNzOwppbXBvcnQgb3JnLmp1bml0LkJlZm9yZUNsYXNzOwppbXBvcnQgb3JnLmp1bml0LlJ1bGU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsKaW1wb3J0IG9yZy5qdW5pdC5ydWxlcy5UZXN0TmFtZTsKaW1wb3J0IG9yZy5vcGVucWEuc2VsZW5pdW0uKjsKaW1wb3J0IG9yZy5vcGVucWEuc2VsZW5pdW0uY2hyb21lLkNocm9tZURyaXZlcjsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0OwoKICAgIHB1YmxpYyBjbGFzcyBEZXZvbHVjYW9SZWVtYm9sc28gew==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCJjdGwwMF9NYWluQ29udGFpbmVyX1BhZ2VUcm9jYURldm9sdWNhb19wbmxDb25maXJtYWNhb19idG5Db25maXJtYXJQcm9jZXNzb19DRCIpKS5jbGljaygpOwogICAgICAgIFNjcmVlbnNob3QudGlyYXIoZHJpdmVyLCAiQzpcXFVzZXJzXFxsdWNhcy5tZW5lemVzXFxEb2N1bWVudHNcXEV2aWRlbmNpYXNBdXQiICsgR2VuZXJhdG9yLmRhdGFIb3JhUGFyYUFycXVpdm8oKSArICJEZXZvbHVjYW9Db21SZWVtYm9sc28ucG5nIik7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKSB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9jb21tb25zLWlvL2NvbW1vbnMtaW8gLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtaW88L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtaW88L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuNDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbW1vbnMtaW8vY29tbW9ucy1pbyAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
-      </register>
       <register name="-" type="4">
-        <text />
+        <text>Tipo de Postagem.</text>
       </register>
     </registers>
     <search>
